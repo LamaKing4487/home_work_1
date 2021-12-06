@@ -1,6 +1,6 @@
-package home_work1;
+package com.company;
 
-public class home_work_1_2 {
+public class home_work_1 {
     public static void main(String[] args) {
         int a = 42;
         int b = 15;
@@ -21,4 +21,5 @@ public class home_work_1_2 {
         System.out.println(a >>= b);
         System.out.println(a <<= b);
     }
+
 }
