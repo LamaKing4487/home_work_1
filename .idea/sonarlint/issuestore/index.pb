@@ -1,5 +1,23 @@
 
 O
+src/home_work1/home_work_2.java,5\b\5b0968fe187a99484f01c87f8680569bce8a2e10
+Q
+!src/home_work1/home_work_5_3.java,3\0\302bbe693dc7ba1a6003412370457b0b6420b50d
+O
+src/home_work1/home_work_3.java,b\e\be1626cb27d8afeddad9b5dc165e0ea5c34adfa0
+E
+src/home_work1/readme,3\c\3c947ee556d51812c1798c1541ca3bee57cac0fa
+Q
+!src/home_work1/home_work_1_2.java,f\4\f410fd92ab6f6623ed163539fd23cddd0def31bb
+Q
+!src/home_work1/home_work_1_3.java,0\c\0c7338c919cc13fb3dc922009349ce5cfd864a10
+O
+src/home_work1/home_work_4.java,8\f\8fda7ae428d009ef3517db111ea971bdf5f632d3
+O
 src/home_work1/home_work_6.java,c\4\c427d33c2701cecbc4641100fa9868d7c01f08ff
-I
-src/com/company/Main.java,4\a\4a831b10439099d44774d0ccc387e808deffaeab
+Q
+!src/home_work1/home_work_5_1.java,7\2\72fa0ff2770e5a96fa795cd2a880ad03f3d6bcff
+Q
+!src/home_work1/home_work_5_2.java,5\b\5b665fe085bf78870de9e89ec61afdb9ca0937ac
+O
+src/home_work1/home_work_7.java,8\8\8870e10b9dfec89c849a102a441df9d208dfb746

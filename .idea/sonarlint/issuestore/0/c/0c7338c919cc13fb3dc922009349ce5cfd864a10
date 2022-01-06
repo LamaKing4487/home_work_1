@@ -1,0 +1,27 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ç‘¬µ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡’Ş—üÿÿÿÿ
+M	java:S106	"9Replace this use of System.out or System.err by a logger.(Ÿâ‘:
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(şú´Ùıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü˜ÑŸ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(à†ƒ¥ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ‰ïšşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÚò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÎåËÍ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ù¿²°úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ğçéô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹°şÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‘´´
+D
+java:S1121".Extract the assignment out of this expression.(ÎåËÍ
+I
+java:S1121".Extract the assignment out of this expression.(ù¿²°úÿÿÿÿ
+D
+java:S1121".Extract the assignment out of this expression.(Ğçéô
+I
+java:S1121".Extract the assignment out of this expression.(‹°şÿÿÿÿÿ
+C
+java:S1121".Extract the assignment out of this expression.(‘´´
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñîÄşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°İ’†
