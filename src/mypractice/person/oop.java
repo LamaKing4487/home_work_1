@@ -1,4 +1,7 @@
-package mypractice;
+package mypractice.person;
+
+import mypractice.person.Person;
+import mypractice.person.Student;
 
 public class oop {
     public static void main(String[] args) {
@@ -8,6 +11,10 @@ public class oop {
         System.out.println(victor.height);
         Person vlad = new Person();
         System.out.println(vlad.height);
+        System.out.println("");
+
+        Student freshmen = new Student(76, "viktor", 2);
+        freshmen.tell();
 
     }
 }
