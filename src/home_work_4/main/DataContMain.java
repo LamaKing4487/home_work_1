@@ -10,9 +10,9 @@ public class DataContMain {
         Data <Integer> container =new Data(data);
 
         int index1 = container.add(1);
-        int index2 = container.add(33);
-        int index3 = container.add(8633);
-        int index4 = container.add(964);
+        int index2 = container.add(27);
+        int index3 = container.add(8964);
+        int index4 = container.add(863);
         System.out.println("index1= " + index1);
         System.out.println("index2= " + index2);
         System.out.println("index3= " + index3);

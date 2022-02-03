@@ -3,12 +3,8 @@ O
 src/home_work1/home_work_2.java,5\b\5b0968fe187a99484f01c87f8680569bce8a2e10
 Q
 !src/home_work1/home_work_5_3.java,3\0\302bbe693dc7ba1a6003412370457b0b6420b50d
-O
-src/home_work1/home_work_3.java,b\e\be1626cb27d8afeddad9b5dc165e0ea5c34adfa0
 E
 src/home_work1/readme,3\c\3c947ee556d51812c1798c1541ca3bee57cac0fa
-Q
-!src/home_work1/home_work_1_2.java,f\4\f410fd92ab6f6623ed163539fd23cddd0def31bb
 Q
 !src/home_work1/home_work_1_3.java,0\c\0c7338c919cc13fb3dc922009349ce5cfd864a10
 O
@@ -21,3 +17,59 @@ Q
 !src/home_work1/home_work_5_2.java,5\b\5b665fe085bf78870de9e89ec61afdb9ca0937ac
 O
 src/home_work1/home_work_7.java,8\8\8870e10b9dfec89c849a102a441df9d208dfb746
+N
+src/mypractice/GameNumber.java,3\f\3f1ff2b94f825f1d442d2769d120dcbd5bd4066e
+T
+$src/home_work_2/home_work_1_1_1.java,9\c\9ce61792b59d568b5237ea20e1d4cb56c5854e5f
+T
+$src/home_work_2/home_work_1_1_2.java,f\3\f34128374e480483a38b471301f131411412dd35
+T
+$src/home_work_2/home_work_1_2_1.java,c\6\c663b2f4ac75f4732544cfdb02c048bdab78661e
+T
+$src/home_work_2/home_work_1_3_1.java,c\c\cca0fad9b23e8f1286e6ac28b758d57e962eb7ef
+T
+$src/home_work_2/home_work_1_3_2.java,f\c\fc085b1b835b2a2e35756f04cc84011ec7160c3a
+T
+$src/home_work_2/home_work_1_4_1.java,e\f\ef7aec14d14f78601b8fe167e670b293362a8310
+R
+"src/home_work_2/home_work_1_5.java,7\c\7c0c1be76e15c12182d189097f1b570428c690f3
+T
+$src/home_work_2/home_work_2_1_1.java,c\d\cd20893542d9637dd54bc7013549decff9ec44b5
+T
+$src/home_work_2/home_work_4_2_1.java,d\d\dd6b707ab48ca9e2722035a11b567ba3eb0dc0cf
+T
+$src/home_work_2/home_work_4_2_2.java,b\0\b0c0efd26314d51cbdf1bd3acd8d1b7e2cefba21
+Q
+!src/com/company/human/joober.java,7\0\701f559a9129279e457c76cd4b5ebd68310ab56d
+F
+src/practice/loop.java,6\4\646245945d09e9392c0375695a55cf70aaa4a075
+K
+src/practice/loopmain1.java,9\d\9d6eb650991181d82d6f525df469610fa278282e
+O
+src/com/company/human/Main.java,c\7\c7dccca90e02a8ed351b37daa070741f399fb4a0
+R
+"src/com/company/human/student.java,2\8\2866f94061e561ac96eee69595d5e30faf1ac3da
+=
+home_work.iml,8\3\83f34a6b41c0ea9813f4272b946ee6b1db167209
+E
+src/practice/prt.java,7\d\7dad26f15eda17b84c6e6d1e64863d803a57c64d
+F
+src/practice/prt2.java,0\e\0ef6fcf3b1208763a2cbf5370ebfe7ae837ec89e
+H
+src/practice/prt2_1.java,c\4\c465960b79acd54cded07b8cc7491cb433d118a6
+F
+src/practice/prt3.java,9\3\9307c06c83eaa69466ac25e626c490c550493fd2
+P
+ src/com/company/human/Main2.java,0\9\0930d9e43104f4be420c215dcd617c6ab3da4547
+P
+ src/com/company/human/Human.java,c\6\c6bd2322c92b38f8a4f837392f4a48c8e0ce0680
+R
+"src/com/company/human/servies.java,9\b\9b4d5534a227efc1c8c431d31adc38363a868fb0
+S
+#src/com/company/human/servies1.java,d\5\d5abf7c8ae92d231d09c540eb889360cfba03ec1
+Q
+!src/home_work1/home_work_1_2.java,f\4\f410fd92ab6f6623ed163539fd23cddd0def31bb
+O
+src/home_work1/home_work_3.java,b\e\be1626cb27d8afeddad9b5dc165e0ea5c34adfa0
+N
+src/mypractice/Calculator.java,e\f\efbd735d51183ca318f72d5843ecb6c2741131d2
